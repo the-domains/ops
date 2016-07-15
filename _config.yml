@@ -2,6 +2,7 @@ name: OPS
 favicon: null
 layout_spectrum: 0.6371397238690406
 typography_spectrum: 0.537203153129667
+title: Operations
 cta:
   domain: null
   bucket: null

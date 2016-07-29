@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Operations]]></title>
         <description><![CDATA[Operations]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ops/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 15:00:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jul 2016 15:13:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ops/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me.]]></title>
+            <description><![CDATA[<article><h1>About Me.</h1><p>My name is Marshall, I am an officer in the United States Army and this is my website.</p></article>]]></description>
+            <link>https://thegrid.ai/ops/about-me/index.html</link>
+            <guid isPermaLink="false">14293585-7d1b-4751-b51d-2ab2ab14e5ed</guid>
+            <pubDate>Fri, 29 Jul 2016 15:13:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Gaming. Streaming. Blogging.</p>]]></description>
-            <link>undefinedgaming-streaming-blogging/index.html</link>
+            <link>https://thegrid.ai/ops/gaming-streaming-blogging/index.html</link>
             <guid isPermaLink="false">17d153d9-4792-4d1a-a18c-8c34e81dbc1c</guid>
             <pubDate>Fri, 29 Jul 2016 15:00:52 GMT</pubDate>
         </item>

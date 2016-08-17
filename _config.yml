@@ -1,6 +1,6 @@
 name: OPS
 favicon: null
-layout_spectrum: 0.1262
+layout_spectrum: 0.24926
 typography_spectrum: 0.50193
 title: Operations
 cta:
@@ -22,8 +22,8 @@ color:
     - '#9fb0bd'
     - '#567488'
     - '#933440'
-  brandStrength: 0.625
-  lightness: 0.0625
-  saturation: 0.75
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []

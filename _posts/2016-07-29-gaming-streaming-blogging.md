@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Gaming. Streaming. Blogging.
-datePublished: '2016-07-29T15:15:36.778Z'
-dateModified: '2016-07-29T15:15:30.361Z'
+datePublished: '2016-08-17T18:24:41.807Z'
+dateModified: '2016-08-17T18:23:17.712Z'
 title: ''
 author: []
 via: {}
 authors: []
 publisher: {}
 sourcePath: _posts/2016-07-29-gaming-streaming-blogging.md
-starred: true
+starred: false
 url: gaming-streaming-blogging/index.html
 _type: Article
 
